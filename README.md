@@ -6,4 +6,4 @@ Complete Documentation - Capstone
 
 I can't share the pickle file here as it's too big (5.3 GB) and also the model weights (more than 25 MB).
 
-If you need any of those, you can ask for link by messaging me.
+If you need any of those, you can ask for the link on Linkedin. Username - snehpushp
